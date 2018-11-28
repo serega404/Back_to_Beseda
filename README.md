@@ -21,6 +21,6 @@ https://oauth.vk.com/blank.html#access_token=***&expires_in=YYYYY&user_id=XXXXXX
 
 Отсюда достаём *** ,это и будет токеном.
 
-Скачать скомпилированную версию [здесь](http://zetcraft.tk/Projects/Back_to_Beseda/Source/Program.zip) 
-
-Отдельная благодарность: Юре Дорибидонтову (Тестировка), OLEGSHA (Помощь с гитом)
+Отдельная благодарность: 
+Юре Дорибидонтову за тестирование
+OLEGSHA за помощь с гитом
